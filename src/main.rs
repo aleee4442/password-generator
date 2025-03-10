@@ -28,3 +28,8 @@ fn main() {
         generar_contra();
     }
 }
+
+
+// prueba
+
+
