@@ -17,3 +17,15 @@ As mentioned in the description, the key features are:
 - Uppercase and lowercase letters  
 - Special characters
 - You can choose the lenght of the password
+
+## Installation
+
+### Prerequisites
+- Rust and Cargo installed on your system
+
+### Build from Source
+```bash
+git clone https://github.com/aleee4442/password-generator.git
+cd password-generator
+cargo build --release
+```
